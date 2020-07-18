@@ -24,18 +24,16 @@
 
 <br />
 <br />
-
+A Data Scientist by passion, tech enthusiast, motivator and mentor for those who want to learn programming, Data Science, development and recent technologies. Beside's programming, I enjoy traveling.
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Serverless Applications
 - 🌱 I’m currently learning GraphQL, AWS, Dockers
 - 👯 I’m looking to collaborate on Data Science
 - 💬 Ask me about ML, DL, Hackathons, AWS
 - 📫 How to reach me: parthhalani05@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 - 🤔 My research interests are with Deep Learning, Deep Reinforcement Learning, Graph Theory.
 
 **Languages and Tools:**  
@@ -55,4 +53,16 @@
 
 ![Parth's github stats](https://github-readme-stats.vercel.app/api?username=p1halani&show_icons=true&hide_border=false)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> So if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 ⭐️ From [Parth Halani](https://github.com/p1halani)
+
+
+<!-- <a href="https://github.com/abhisheknaiidu/A-POP"> - 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=A-POP" />
+</a> -->
+
+<!-- <a href="https://github.com/abhisheknaiidu/IIITDMJ-GPA">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
+</a> -->
