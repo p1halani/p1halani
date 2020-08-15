@@ -30,7 +30,7 @@ A Data Scientist by passion, tech enthusiast, motivator and mentor for those who
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on Serverless Applications
-- 🌱 I’m currently learning GraphQL, AWS, Dockers
+- 🌱 I’m currently learning GraphQL, AWS, Docker
 - 👯 I’m looking to collaborate on Data Science
 - 💬 Ask me about ML, DL, Hackathons, AWS
 - 📫 How to reach me: parthhalani05@gmail.com
