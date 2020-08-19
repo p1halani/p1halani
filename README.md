@@ -1,5 +1,7 @@
 ### Hey 👋🏽, I'm [Parth!](https://p1halani.github.io)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=p1halani" alt="p1halani" /> </p>
+
 <a href="https://twitter.com/parthhalani05">
   <img align="left" alt="Parth Halani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
