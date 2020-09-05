@@ -27,7 +27,7 @@
 <br />
 <br />
 A Data Scientist by passion, tech enthusiast, motivator and mentor for those who want to learn programming, Data Science, development and recent technologies. Beside's programming, I enjoy traveling.
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" /> -->
 
 **Talking about Personal Stuffs:**
 
