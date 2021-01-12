@@ -52,6 +52,9 @@ A Data Scientist by passion, tech enthusiast, motivator and mentor for those who
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+### My GitHub Stats 
+<img width='50%' src='https://github-readme-stats.vercel.app/api?username=pruvi007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> So if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ⭐️ From [Parth Halani](https://github.com/p1halani)
