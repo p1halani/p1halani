@@ -68,6 +68,10 @@ A Data Scientist by passion, tech enthusiast, motivator and mentor for those who
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=abhisheknaiidu&repo=IIITDMJ-GPA" />
 </a> -->
 
+
+
+
+<!---
 <img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/linkedin_banner.png" />
 
 <h1>Hi Traveller, I am <a href="https://ashutoshhathidara.com/">Ashutosh (layman_brother)</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
@@ -181,4 +185,6 @@ In May 2019, I was selected as Microsoft Student Partner to teach students about
 ![](https://github.com/ashutosh1919/ashutosh1919/blob/master/generated/languages.svg)
 
 </a>
+
+--->
 <!-- [![Ashutosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ashutosh1919&show_icons=true&count_private=true)](https://github.com/ashutosh1919/github-readme-stats)   -->
